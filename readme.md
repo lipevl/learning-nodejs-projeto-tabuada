@@ -16,7 +16,7 @@ $ git --version
 
 ## Instalação 
 
-Clonar o repositório do Github e usar o np do no.js para instalar as dependecias de módulos do projeto.
+Clonar o repositório do Github e usar o npm do Node.js para instalar as dependecias de módulos do projeto.
 ```bash
 
 $ git clone https://github.com/lipevl/learning-nodejs-projeto-tabuada.git
